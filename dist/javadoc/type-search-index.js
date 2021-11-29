@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"NetworkedMathQuiz_gui","l":"methodsForSorting"},{"p":"NetworkedMathQuiz_gui","l":"NetworkedMathQuiz_Student"},{"p":"NetworkedMathQuiz_gui","l":"NetworkedMathQuiz_Teacher"},{"p":"NetworkedMathQuiz_gui","l":"Question"}];updateSearchResults();
